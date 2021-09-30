@@ -1,5 +1,12 @@
+! Title: Albanian Adblocking and Element-blocking List
+! Last modified: 
+! Expires: 14 days (update frequency)
+!
+! -----------------------------Third-party adverts-----------------------------!
 ads.panorama.com.al
 ads.balkanweb.com
+!
+! ---------------------------Third-party advertisers---------------------------!
 ||aplikacione.com
 ||digitalbee.al
 ||medium.al
@@ -12,6 +19,8 @@ ads.balkanweb.com
 ||revive-adserver.net
 ||boost.al
 
+!
+! ------------------------Specific element hiding rules------------------------!
 www.panorama.com.al##^meta[http-equiv="refresh"]
 www.panorama.com.al##.td-header-style-1.td-header-wrap.td-header-container > div
 www.respublica.al##.container-16.clearfix.zone-branding.zone
@@ -32,5 +41,5 @@ www.gazetatema.net###utility-top > .clear.wrap
 www.gazetatema.net##.clear.full-width.wrap
 www.gazetatema.net##.primary-nav
 www.gazetatema.net###reifeisen_ashensor
-
+!
 www.albtelecom.al###chat-24-widget-container
