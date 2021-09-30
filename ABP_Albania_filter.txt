@@ -1,0 +1,36 @@
+ads.panorama.com.al
+ads.balkanweb.com
+||aplikacione.com
+||digitalbee.al
+||medium.al
+||teoren.al
+||revive.shqiptarja.com
+||revive2.shqiptarja.com
+||adcumulus.com
+||gogel.al
+||projectagoraservices.com
+||revive-adserver.net
+||boost.al
+
+www.panorama.com.al##^meta[http-equiv="refresh"]
+www.panorama.com.al##.td-header-style-1.td-header-wrap.td-header-container > div
+www.respublica.al##.container-16.clearfix.zone-branding.zone
+www.respublica.al##.container-16.clearfix.zone-menu.zone
+www.gazetadita.al##.header
+www.gazetadita.al##.right.main-sidebar
+exit.al##.homePage.fixed.site-header
+www.monitor.al###header
+lapsi.al##^meta[http-equiv="refresh"]
+lapsi.al###top-bar-wrapper
+lapsi.al###header-wrapper
+lapsi.al###navigation-container
+lapsi.al##.forceShow.Right.backButton
+lapsi.al##.small.hide.trg-overlay
+lapsi.al##header#mobile-site-header.mobile-header:nth-of-type(1)
+www.gazetatema.net###execphp-24 > .execphpwidget
+www.gazetatema.net###utility-top > .clear.wrap
+www.gazetatema.net##.clear.full-width.wrap
+www.gazetatema.net##.primary-nav
+www.gazetatema.net###reifeisen_ashensor
+
+www.albtelecom.al###chat-24-widget-container
