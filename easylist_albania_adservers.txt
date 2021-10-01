@@ -1,0 +1,12 @@
+! Non-flagged (Generic blocks)
+||aplikacione.com
+||boost.al
+||digitalbee.al
+||gogel.al
+||medium.al
+||revive-adserver.net
+||revive.shqiptarja.com
+||revive2.shqiptarja.com
+||teoren.al
+ads.balkanweb.com
+ads.panorama.com.al
