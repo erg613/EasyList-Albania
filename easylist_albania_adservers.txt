@@ -1,4 +1,6 @@
 ! Non-flagged (Generic blocks)
+||ads.balkanweb.com
+||ads.panorama.com.al
 ||aplikacione.com
 ||boost.al
 ||digitalbee.al
@@ -8,5 +10,3 @@
 ||revive.shqiptarja.com
 ||revive2.shqiptarja.com
 ||teoren.al
-||ads.balkanweb.com
-||ads.panorama.com.al
