@@ -1,0 +1,2 @@
+! A general refresh rate of 80 sec on all pages breaches reading.
+||panorama.com.al##^meta[http-equiv="refresh"]
