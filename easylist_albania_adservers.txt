@@ -8,5 +8,5 @@
 ||revive.shqiptarja.com
 ||revive2.shqiptarja.com
 ||teoren.al
-ads.balkanweb.com
-ads.panorama.com.al
+||ads.balkanweb.com
+||ads.panorama.com.al
