@@ -27,7 +27,7 @@ Do të bëhen përpjekje për rregullimin e falso-pozitivëve, aty ku është e 
     riparimi i lidhjeve direkte të lejueshme;
     probleme lidhur me renditjen e inter-faqeve.
     
-Preferohet të paraqisni ankesë me sqarime në vend të kërkesave për tërheqje, sepse admini duhet t'i shqyrtojë sitet, sido që të jetë puna.
+Preferohet të ngrini çështje me sqarime në vend të kërkesave për tërheqje, sepse admini duhet t'i shqyrtojë sitet, sido që të jetë puna.
 
 
 ### Ankesat
@@ -37,5 +37,9 @@ Në rast se siti juaj është shtuar në EasyList-Albania:
     parashtroni pse nuk duhej shtuar;
     përqendrohuni në problemin tuaj apo në filtrin specifik.
     
+
+### Njoftime
+
+Njoftime për servera apo elementë që duhen shtuar në listën shqiptare, dërgojini nëpërmjet seksionit "Çështjet" (Issues) në Github.
 
 Për problemet apo pyetjet, shtoni një etiketë në Github.
